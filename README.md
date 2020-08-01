@@ -1,7 +1,5 @@
 ## Hellow, World! 👋
 
-> 20 years 👨‍💻 sites & 📱 web-apps 👨‍🔬 Raspberry PI & eInk 👷 mech keebs 👐 Open Source 🕓 W3C Audio Working Group Chair 🦖 Data-Vis w/ Mozilla ❤️ JavaScript ♾ 
-
 - 🔭 I’m currently developing user interfaces for autonomous vehicle company, [isee.ai](http://isee.ai)
 - 🌱 I’m currently learning [Ethereum Blockchain Development with Solidarity](https://www.udemy.com/course/blockchain-developer/)
 - 👯 I’m looking to collaborate on Data Visualization and Blockchain.
