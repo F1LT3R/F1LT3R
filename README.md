@@ -1,12 +1,6 @@
-## Hi there 👋
+## Hellow, World! 👋
 
 > 20 years 👨‍💻 sites & 📱 web-apps 👨‍🔬 Raspberry PI & eInk 👷 mech keebs 👐 Open Source 🕓 W3C Audio Working Group Chair 🦖 Data-Vis w/ Mozilla ❤️ JavaScript ♾ 
-
-I have been developing web sites and mobile applications for twenty years. I experiment with low-power computing, build mechanical keyboards, and contribute to Open Source software. I use React, monorepos, Behavior Driven Development, and Dev-Ops integrations, to engineer user interfaces that scale across multiple teams and products.
-
-In my early career, I focused on accelerating the bleeding edge of the web browser. Data visualization with Mozilla and Newsweek, Audio Working Group Chair at The W3C, Educational HTML5 Games Development for The Concord Consortium, Node.js Streaming Platform project lead for Red Bull Studios, wrote about JavaScript animation for popular British tech magazine .NET (no relation to the language). I have spoken about JavaScript APIs and Frameworks at over 20 conferences and meetups, and I organized the Boston JavaScript Meetup Group from 2010-2012.
-
-In recent years I have focused on using technology to help solve social problems. I was Software Architect and Scrum Master for a Web Accessibility company and a Lead Developer for two mobile healthcare apps. I am currently creating user interfaces for an awesome autonomous vehicle company in the trucking space, isee.ai
 
 - 🔭 I’m currently developing user interfaces for autonomous vehicle company, [isee.ai](http://isee.ai)
 - 🌱 I’m currently learning [Ethereum Blockchain Development with Solidarity](https://www.udemy.com/course/blockchain-developer/)
@@ -15,6 +9,12 @@ In recent years I have focused on using technology to help solve social problems
 - 💬 Ask me about the meaning of life.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/f1lt3r/)
 - ⚡ Fun fact: I've been a Bitcoin enthusiast since 2013.
+
+I have been developing web sites and mobile applications for twenty years. I experiment with low-power computing, build mechanical keyboards, and contribute to Open Source software. I use React, monorepos, Behavior Driven Development, and Dev-Ops integrations, to engineer user interfaces that scale across multiple teams and products.
+
+In my early career, I focused on accelerating the bleeding edge of the web browser. Data visualization with Mozilla and Newsweek, Audio Working Group Chair at The W3C, Educational HTML5 Games Development for The Concord Consortium, Node.js Streaming Platform project lead for Red Bull Studios, wrote about JavaScript animation for popular British tech magazine .NET (no relation to the language). I have spoken about JavaScript APIs and Frameworks at over 20 conferences and meetups, and I organized the Boston JavaScript Meetup Group from 2010-2012.
+
+In recent years I have focused on using technology to help solve social problems. I was Software Architect and Scrum Master for a Web Accessibility company and a Lead Developer for two mobile healthcare apps. I am currently creating user interfaces for an awesome autonomous vehicle company in the trucking space, isee.ai
 
 ## Code
 
