@@ -1,5 +1,3 @@
-## Hellow, World! 👋
-
 - 🔭 I’m currently developing user interfaces for autonomous vehicle company, [isee.ai](http://isee.ai)
 - 🌱 I’m currently learning [Ethereum Blockchain Development with Solidarity](https://www.udemy.com/course/blockchain-developer/)
 - 👯 I’m looking to collaborate on Data Visualization and Blockchain.
