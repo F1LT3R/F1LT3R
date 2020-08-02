@@ -8,7 +8,7 @@ I have been developing web sites and mobile applications for twenty years. I exp
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/f1lt3r/)
 - ⚡ Fun fact: I've been a Bitcoin enthusiast since 2013.
 
-### ✍ Blog Posts
+### Blog Posts ✍ 
 
 - [TypeScript?.. or JavaScript?](https://f1lt3r.io/typescript-or-javascript)
     > To draw an analogy, JavaScript is a jump-jet and TypeScript is an aircraft carrier; And even though TypeScript is safe, it’s still not safe enough to run a nuclear power plant.
