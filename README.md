@@ -1,6 +1,6 @@
 - 🔭 I’m currently developing user interfaces for autonomous vehicle company, [isee.ai](http://isee.ai)
 - 🌱 I’m currently learning [Ethereum Blockchain Development with Solidarity](https://www.udemy.com/course/blockchain-developer/)
-- 👯 I’m looking to collaborate on Data Visualization and Blockchain.
+- 👯 I’m looking to collaborate on Web Standards, Data Vis. and Blockchain.
 - 🤔 I’m looking for help with long-term maintenance of [React Workspaces](https://github.com/react-workspaces/react-workspaces-playground)
 - 💬 Ask me about... the meaning of life.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/f1lt3r/)
