@@ -1,4 +1,4 @@
-### 👋 Hello, World! 
+### Hello, World! 👋 
 
 I have been developing web sites and mobile applications for twenty years. I experiment with low-power computing, build mechanical keyboards, and contribute to Open Source software. I use React, monorepos, Behavior Driven Development, and Dev-Ops integrations, to engineer user interfaces that scale across multiple teams and products.
 
