@@ -10,12 +10,12 @@ I have been developing web sites and mobile applications for twenty years. I exp
 
 ### Code/Projects
 
-- 🍀 [Carlton Quadtree](https://github.com/F1LT3R/carlton-quadtree) - An infinitely divisible quad tree implementation.
+- ⚛️ [React Workspaces Playground](https://github.com/react-workspaces/react-workspaces-playground) - Zero Config Create-React-App Monorepos with Yarn Workspaces, Lerna and React Storybook. 
 - 🏁 [Markserv](https://github.com/markserv/markserv) - Serve markdown as html (GitHub style), index directories, live-reload as you edit.
 - 💲 [Bitcoin Chart Scraper](https://github.com/F1LT3R/bitcoin-scraper) - Scape the entire history of BitStamp's Bitcoin charts.
-- ⚛️ [React Workspaces Playground](https://github.com/react-workspaces/react-workspaces-playground) - Zero Config Create-React-App Monorepos with Yarn Workspaces, Lerna and React Storybook. 
 - 💾 [Dvorak Programmers Tutorial](https://github.com/F1LT3R/dvorak-programmers-tutorial) - An Interactive cli tutorial for Programmers Dvorak 
 - 🦅 [Chromafi](https://github.com/F1LT3R/chromafi) - CLI syntax highlighting: any function - any object - 176 languages. 
+- 🍀 [Carlton Quadtree](https://github.com/F1LT3R/carlton-quadtree) - An infinitely divisible quad tree implementation with visualizations.
 
 ### Blog Posts ✍ 
 
