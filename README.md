@@ -8,6 +8,15 @@
 
 I have been developing web sites and mobile applications for twenty years. I experiment with low-power computing, build mechanical keyboards, and contribute to Open Source software. I use React, monorepos, Behavior Driven Development, and Dev-Ops integrations, to engineer user interfaces that scale across multiple teams and products.
 
+## Code
+
+- 🍀 [Carlton Quadtree](https://github.com/F1LT3R/carlton-quadtree) - An infinitely divisible quad tree implementation.
+- 🏁 [Markserv](https://github.com/markserv/markserv) - Serve markdown as html (GitHub style), index directories, live-reload as you edit.
+- 💲 [Bitcoin Chart Scraper](https://github.com/F1LT3R/bitcoin-scraper) - Scape the entire history of BitStamp's Bitcoin charts.
+- ⚛️ [React Workspaces Playground](https://github.com/react-workspaces/react-workspaces-playground) - Zero Config Create-React-App Monorepos with Yarn Workspaces, Lerna and React Storybook. 
+- 💾 [Dvorak Programmers Tutorial](https://github.com/F1LT3R/dvorak-programmers-tutorial) - An Interactive cli tutorial for Programmers Dvorak 
+- 🦅 [Chromafi](https://github.com/F1LT3R/chromafi) - CLI syntax highlighting: any function - any object - 176 languages. 
+
 ## Blog Posts
 
 - [TypeScript?.. or JavaScript?](https://f1lt3r.io/typescript-or-javascript)
