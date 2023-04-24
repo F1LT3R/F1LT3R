@@ -1,5 +1,3 @@
-0c56bec2f12195dc9825c2ab74b9299d070dcb575c1ff11fb41b09d54883401fb4ac1df021df04f1f993e8cb1aef2bd5aa1c57dc212e6933fea647fe94305409
-
 ### Hello, World! 👋
 
 I have been developing web sites and mobile applications for twenty years. I experiment with low-power computing, build mechanical keyboards, and contribute to Open Source software. I use React, monorepos, Behavior Driven Development, and Dev-Ops integrations, to engineer user interfaces that scale across multiple teams and products.
@@ -26,3 +24,7 @@ I have been developing web sites and mobile applications for twenty years. I exp
     > For years I have been using JavaScript’s Math.sin() and Math.cos() to create games, animations and interactive graphs on the <canvas> element. But how do Sine and Cosine work? I had to know…</p>
  
 See more blog posts at [F1LT3R.io](https://f1lt3r.io)
+
+### Resume
+
+[Resume-Alistair-MacDonald-2020-08-v3.pdf](Resume-Alistair-MacDonald-2020-08-v3.pdf)
