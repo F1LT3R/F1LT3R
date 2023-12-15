@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-Profile: I have been developing websites for 20 years, and hybrid mobile apps for 8 years. I have been instrumental in applying monorepos, cloud platforms, BDD, and DevOps to build architecture that empowers multiple engineering teams to ship a wide array of products with a unified methodology. I have led web engineering teams through the scaling journey from initial implementation, to serving the majority of K-12 classrooms in America.
+**PROFILE:** I have been developing websites for 20 years, and hybrid mobile apps for 8 years. I have been instrumental in applying monorepos, cloud platforms, BDD, and DevOps to build architecture that empowers multiple engineering teams to ship a wide array of products with a unified methodology. I have led web engineering teams through the scaling journey from initial implementation, to serving the majority of K-12 classrooms in America.
 
 - 🌱 I’m currently learning how to grow my own food.
 - 🤔 I’m looking for help with long-term maintenance of [React Workspaces](https://github.com/react-workspaces/react-workspaces-playground)
