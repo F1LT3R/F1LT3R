@@ -22,7 +22,3 @@ I have been developing websites for 20 years, and hybrid mobile apps for 8 years
     > To draw an analogy, JavaScript is a jump-jet and TypeScript is an aircraft carrier; And even though TypeScript is safe, it’s still not safe enough to run a nuclear power plant.
 - [Roll Your Own Math - Sine and Cosine](https://f1lt3r.io/roll-your-own-math-sine-cosine)
     > For years I have been using JavaScript’s Math.sin() and Math.cos() to create games, animations and interactive graphs on the <canvas> element. But how do Sine and Cosine work? I had to know…</p>
-
-### Resume
-
-[Resume-Alistair-MacDonald-2020-08-v3.pdf](Resume-Alistair-MacDonald-2020-08-v3.pdf)
