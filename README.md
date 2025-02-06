@@ -2,10 +2,7 @@
 
 I have been developing sites and hybrid mobile apps for over 20 years. I have used Monorepos, Cloud, BDD, & DevOps to build platform architectures that enable a wide range of products to be deployed with a unified methodology. At HMH I led five engineering teams across three countries, from initial implementation of the platform, through scaling up to the majority of K-12 classrooms in the USA.
 
-- 🌱 I’m currently learning how to grow my own food.
-- 🤔 I’m looking for help with long-term maintenance of [React Workspaces](https://github.com/react-workspaces/react-workspaces-playground)
-- 📫 [LinkedIn](https://www.linkedin.com/in/f1lt3r/)
-- 𝕏 [@AlGMacD](https://x.com/@AlGMacD)
+📫 [LinkedIn](https://www.linkedin.com/in/f1lt3r/), 𝕏 [@AlGMacD](https://x.com/@AlGMacD)
 
 ## 💼 Recent Work  
 
