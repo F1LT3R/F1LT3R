@@ -15,13 +15,12 @@ I have been developing sites and hybrid mobile apps for over 20 years. I have us
 
 Click the images to try the demos:
 
-<p align="center"><a href="https://f1lt3r.github.io/orbit-fx/public/"><img width="30%" alt="Orbit-FX Demo #1" src="https://github.com/F1LT3R/orbit-fx/raw/main/public/assets/demo-screenshot.png" /></a>
-<a href="https://f1lt3r.github.io/orbit-fx/public/examples/example-3/"><img width="30%" alt="Orbit-FX Demo #1" src="https://github.com/F1LT3R/orbit-fx/raw/main/public/assets/demo-2-css-keyframes-svg-filters.png" /></a>
-<a href="https://f1lt3r.github.io/orbit-fx/public/examples/example-4/"><img width="30%" alt="Orbit-FX Demo #2" src="https://github.com/user-attachments/assets/544fc783-73ed-4b3c-b714-09dce7e1cf4a" /></a></p>
+<p align="center"><a href="https://f1lt3r.github.io/orbit-fx/public/"><img width="32%" alt="Orbit-FX Demo #1" src="https://github.com/F1LT3R/orbit-fx/raw/main/public/assets/demo-screenshot.png" /></a>
+<a href="https://f1lt3r.github.io/orbit-fx/public/examples/example-3/"><img width="32%" alt="Orbit-FX Demo #1" src="https://github.com/F1LT3R/orbit-fx/raw/main/public/assets/demo-2-css-keyframes-svg-filters.png" /></a>
+<a href="https://f1lt3r.github.io/orbit-fx/public/examples/example-4/"><img width="32%" alt="Orbit-FX Demo #2" src="https://github.com/user-attachments/assets/544fc783-73ed-4b3c-b714-09dce7e1cf4a" /></a></p>
 
 ## 👨‍💻 Older Projects 
 
-- 🪐 [Orbit-FX](https://github.com/F1LT3R/orbit-fx) - A universal key-frame animator for the web; capable of beautiful, smooth animations, with programmable hooks for user interactions.
 - ⚛️ [React Workspaces Playground](https://github.com/react-workspaces/react-workspaces-playground) - Zero Config React Monorepos with Yarn Workspaces, Lerna and Storybook. 
 - 🏁 [Markserv](https://github.com/markserv/markserv) - Serve markdown as html (GitHub style), index directories, live-reload as you edit.
 - 💲 [Bitcoin Chart Scraper](https://github.com/F1LT3R/bitcoin-scraper) - Scape the entire history of BitStamp's Bitcoin charts.
@@ -29,7 +28,7 @@ Click the images to try the demos:
 - 🦅 [Chromafi](https://github.com/F1LT3R/chromafi) - CLI syntax highlighting: any function - any object - 176 languages. 
 - 🍀 [Carlton Quadtree](https://github.com/F1LT3R/carlton-quadtree) - An infinitely divisible quad tree implementation with visualizations.
 
-### Blog Posts ✍ 
+## ✍ Blog Posts 
 
 - [TypeScript?.. or JavaScript?](https://f1lt3r.io/typescript-or-javascript)
     > To draw an analogy, JavaScript is a jump-jet and TypeScript is an aircraft carrier; And even though TypeScript is safe, it’s still not safe enough to run a nuclear power plant.
