@@ -1,14 +1,27 @@
-# Hello, World! 👋
+## 👤 Profile 
 
-**PROFILE:**
-I have been developing websites for 20 years, and hybrid mobile apps for 8 years. I have been instrumental in applying monorepos, cloud platforms, BDD, and DevOps to build architecture that empowers multiple engineering teams to ship a wide array of products with a unified methodology. I have led web engineering teams through the scaling journey from initial implementation, to serving the majority of K-12 classrooms in America.
+I have been developing sites and hybrid mobile apps for over 20 years. I have used Monorepos, Cloud, BDD, & DevOps to build platform architectures that enable a wide range of products to be deployed with a unified methodology. At HMH I led five engineering teams across three countries, from initial implementation of the platform, through scaling up to the majority of K-12 classrooms in the USA.
 
 - 🌱 I’m currently learning how to grow my own food.
 - 🤔 I’m looking for help with long-term maintenance of [React Workspaces](https://github.com/react-workspaces/react-workspaces-playground)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/f1lt3r/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/f1lt3r/)
+- 𝕏 [@AlGMacD](https://x.com/@AlGMacD)
 
-### Code/Projects 👨‍💻
+## 💼 Recent Work  
 
+### 🪐 [Orbit-FX](https://github.com/F1LT3R/orbit-fx)
+
+> A universal key-frame animator for the web; capable of beautiful, smooth animations, with programmable hooks for user interactions.
+
+Click the images to try the demos:
+
+<p align="center"><a href="https://f1lt3r.github.io/orbit-fx/public/"><img width="30%" alt="Orbit-FX Demo #1" src="https://github.com/F1LT3R/orbit-fx/raw/main/public/assets/demo-screenshot.png" /></a>
+<a href="https://f1lt3r.github.io/orbit-fx/public/examples/example-3/"><img width="30%" alt="Orbit-FX Demo #1" src="https://github.com/F1LT3R/orbit-fx/raw/main/public/assets/demo-2-css-keyframes-svg-filters.png" /></a>
+<a href="https://f1lt3r.github.io/orbit-fx/public/examples/example-4/"><img width="30%" alt="Orbit-FX Demo #2" src="https://github.com/user-attachments/assets/544fc783-73ed-4b3c-b714-09dce7e1cf4a" /></a></p>
+
+## 👨‍💻 Older Projects 
+
+- 🪐 [Orbit-FX](https://github.com/F1LT3R/orbit-fx) - A universal key-frame animator for the web; capable of beautiful, smooth animations, with programmable hooks for user interactions.
 - ⚛️ [React Workspaces Playground](https://github.com/react-workspaces/react-workspaces-playground) - Zero Config React Monorepos with Yarn Workspaces, Lerna and Storybook. 
 - 🏁 [Markserv](https://github.com/markserv/markserv) - Serve markdown as html (GitHub style), index directories, live-reload as you edit.
 - 💲 [Bitcoin Chart Scraper](https://github.com/F1LT3R/bitcoin-scraper) - Scape the entire history of BitStamp's Bitcoin charts.
