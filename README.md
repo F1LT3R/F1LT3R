@@ -2,7 +2,7 @@
 
 I have been developing sites and hybrid mobile apps for over 20 years. I have used Monorepos, Cloud, BDD, and DevOps to build platform architectures that enable a wide range of products to be deployed with a unified methodology. In one position I led 5 engineering teams across 3 countries, developing a new React platform from the ground up. I scaled the plaform up to 10 apps, that were deployed to the majority of K-12 classrooms across the USA.
 
-📫 [LinkedIn](https://www.linkedin.com/in/f1lt3r/) &mdash; 𝕏 [@AlGMacD](https://x.com/@AlGMacD)
+🟦 [LinkedIn](https://www.linkedin.com/in/f1lt3r/) &mdash; 𝕏 [@AlGMacD](https://x.com/@AlGMacD)
 
 <br/>
 
