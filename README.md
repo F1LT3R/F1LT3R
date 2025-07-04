@@ -12,7 +12,7 @@ Currently available for fractional or contract roles where progress matters.
 
 <br/>
 
-## 💼 Recent Work  
+## 🧑‍💻✨ Independent Projects
 
 ### 🪐 [Orbit-FX](https://github.com/F1LT3R/orbit-fx)
 
