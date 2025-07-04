@@ -16,9 +16,9 @@ Currently available for fractional or contract roles where progress matters.
 
 ### 🪐 [Orbit-FX](https://github.com/F1LT3R/orbit-fx)
 
-> A universal key-frame animator for the web; capable of beautiful, smooth animations, with programmable hooks for user interactions.
+**Orbit-FX is a universal key-frame animator for the web; capable of beautiful, smooth animations, with programmable hooks for user interactions.**
 
-*Click the images to try the demos: _(best viewed in Chrome)_*
+**Click these images below to launch the demos: _(best viewed in Chrome)_**
 
 <p align="center"><a href="https://f1lt3r.github.io/orbit-fx/public/"><img width="32%" alt="Orbit-FX Demo #1" src="https://github.com/F1LT3R/orbit-fx/raw/main/public/assets/demo-screenshot.png" /></a>
 <a href="https://f1lt3r.github.io/orbit-fx/public/examples/example-3/"><img width="32%" alt="Orbit-FX Demo #1" src="https://github.com/F1LT3R/orbit-fx/raw/main/public/assets/demo-2-css-keyframes-svg-filters.png" /></a>
@@ -29,12 +29,12 @@ Currently available for fractional or contract roles where progress matters.
 ## 👨‍💻 Older Projects 
 
 - ⚛️ [React Workspaces Playground](https://github.com/react-workspaces/react-workspaces-playground) - Zero Config React Monorepos with Yarn Workspaces, Lerna and Storybook. 
-- 🚀 [Flight of The Navigator (Web GL)](https://f1lt3r.github.io/flight-of-the-navigator) - HTML5 Demo for Mozzilla Conference 2010 (Web-GL, Web Audio, Canvas, Processing.JS)
 - 🏁 [Markserv](https://github.com/markserv/markserv) - Serve markdown as html (GitHub style), index directories, live-reload as you edit.
 - 💲 [Bitcoin Chart Scraper](https://github.com/F1LT3R/bitcoin-scraper) - Scape the entire history of BitStamp's Bitcoin charts.
 - 💾 [Dvorak Programmers Tutorial](https://github.com/F1LT3R/dvorak-programmers-tutorial) - An Interactive cli tutorial for Programmers Dvorak 
 - 🦅 [Chromafi](https://github.com/F1LT3R/chromafi) - CLI syntax highlighting: any function - any object - 176 languages. 
 - 🍀 [Carlton Quadtree](https://github.com/F1LT3R/carlton-quadtree) - An infinitely divisible quad tree implementation with visualizations.
+- 🚀 [Flight of The Navigator (Web GL)](https://f1lt3r.github.io/flight-of-the-navigator) - HTML5 Demo for Mozzilla Conference 2010 (Web-GL, Web Audio, Canvas, Processing.JS)
 
 
 <br/>
