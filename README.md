@@ -18,7 +18,7 @@ Currently available for fractional or contract roles where progress matters.
 
 > A universal key-frame animator for the web; capable of beautiful, smooth animations, with programmable hooks for user interactions.
 
-Click the images to try the demos:
+*Click the images to try the demos: _(best viewed in Chrome)_*
 
 <p align="center"><a href="https://f1lt3r.github.io/orbit-fx/public/"><img width="32%" alt="Orbit-FX Demo #1" src="https://github.com/F1LT3R/orbit-fx/raw/main/public/assets/demo-screenshot.png" /></a>
 <a href="https://f1lt3r.github.io/orbit-fx/public/examples/example-3/"><img width="32%" alt="Orbit-FX Demo #1" src="https://github.com/F1LT3R/orbit-fx/raw/main/public/assets/demo-2-css-keyframes-svg-filters.png" /></a>
