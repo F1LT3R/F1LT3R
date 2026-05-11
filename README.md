@@ -8,7 +8,7 @@
 
 ⬡ Currently available for contract or full time roles where progress matters.
 
-🟦 [LinkedIn](https://www.linkedin.com/in/f1lt3r/)
+🟦 [LinkedIn](https://www.linkedin.com/in/algmacd/)
 
 <br/>
 
