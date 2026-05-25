@@ -1,12 +1,10 @@
 ## 👤 Profile 
 
-⬢ I am a Senior Software Architect with 20+ years of experience helping teams build and scale secure web and mobile platforms, +10 years experience designing and building web UI. I specialize in React, Node, DevOps, and regulated data systems (HIPAA, SOC2, EdTech). My work spans architecture, engineering, and technical leadership—turning chaos into clarity and getting products to market fast.
+⬢ I am a software engineer with more than two decades of experience building intelligent, secure, and scalable platforms across healthcare, education, and emerging tech for organizations such as Houghton Mifflin Harcourt, and multiple health-tech startups.
 
-⬢ I’ve delivered critical platforms for companies like Houghton Mifflin Harcourt, Mozilla, isee.ai, and multiple healthtech startups—often joining during moments of scale, uncertainty, or velocity loss. I’m typically brought in to solve hard problems, build momentum, and ship clean outcomes.
+⬢ I’ve led distributed engineering teams across continents, designing ML-powered user interfaces, optimized annotation and data pipelines, built many React/Node applications, and enabled daily releases through resilient CI/CD workflows.
 
-⬢ While I’ve led distributed engineering teams across continents, I stay deeply hands-on—building React/Node systems, optimizing CI/CD workflows, and mentoring developers through fast-moving transitions. I thrive where autonomy, technical depth, and delivery intersect.
-
-⬡ Currently available for contract or full time roles where progress matters.
+⬡ Currently available for contract, or full-time roles.
 
 🟦 [LinkedIn](https://www.linkedin.com/in/algmacd/)
 
