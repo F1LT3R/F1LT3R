@@ -1,3 +1,5 @@
+<img width="100%" alt="Local AI" src="https://github.com/user-attachments/assets/f1d9951b-7c3f-48c0-97e2-605714ce00fa" />
+
 ## 👤 Profile 
 
 ⬢ I am a software engineer with more than two decades of experience building intelligent, secure, and scalable platforms across healthcare, education, and emerging tech for organizations such as Houghton Mifflin Harcourt, and multiple health-tech startups.
