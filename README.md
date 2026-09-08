@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🧑‍💻✨ Independent Projects
+## 🧑‍💻✨ Projects
 
 ### 🪐 [Orbit-FX](https://github.com/F1LT3R/orbit-fx)
 
