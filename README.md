@@ -6,8 +6,6 @@
 
 ⬡ Currently available for contract, or full-time roles.
 
-🟦 [LinkedIn](https://www.linkedin.com/in/algmacd/)
-
 <br/>
 
 ## 🧑‍💻✨ Independent Projects
