@@ -1,1 +1,1 @@
-<img src="assets/moonset.jpg">
+<img src="assets/moonset-skinny.jpg">
