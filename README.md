@@ -1,1 +1,1 @@
-<img src="assets/moonset-skinny-vibrant.jpg">
+<img src="assets/moonset-skinny-vibrant-border.jpg">
